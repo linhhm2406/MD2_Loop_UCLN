@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0f007be-cf0d-41f9-8cf9-b21910d0560c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZNvDGkYtqPXuenN9B78QW3owIn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2.BankMoney" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="UCLN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UCLN" />
+      <module name="UCLN" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UCLN" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0f007be-cf0d-41f9-8cf9-b21910d0560c" name="Default Changelist" comment="" />
+      <created>1584692244799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584692244799</updated>
+      <workItem from="1584692248020" duration="2373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1035" y="184" width="800" height="677" key="#Project_Structure" timestamp="1584692273906">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="1035" y="184" width="800" height="677" key="#Project_Structure/0.27.1920.994@0.27.1920.994" timestamp="1584692273906" />
+    <state x="1223" y="281" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584693082185">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="1223" y="281" width="424" height="484" key="FileChooserDialogImpl/0.27.1920.994@0.27.1920.994" timestamp="1584693082185" />
+    <state width="914" height="235" key="GridCell.Tab.0.bottom" timestamp="1584695185071">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="914" height="235" key="GridCell.Tab.0.bottom/0.27.1920.994@0.27.1920.994" timestamp="1584695185071" />
+    <state width="914" height="235" key="GridCell.Tab.0.center" timestamp="1584695185071">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="914" height="235" key="GridCell.Tab.0.center/0.27.1920.994@0.27.1920.994" timestamp="1584695185071" />
+    <state width="914" height="235" key="GridCell.Tab.0.left" timestamp="1584695185071">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="914" height="235" key="GridCell.Tab.0.left/0.27.1920.994@0.27.1920.994" timestamp="1584695185071" />
+    <state width="914" height="235" key="GridCell.Tab.0.right" timestamp="1584695185071">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state width="914" height="235" key="GridCell.Tab.0.right/0.27.1920.994@0.27.1920.994" timestamp="1584695185071" />
+    <state x="499" y="117" width="1372" height="843" key="new project wizard" timestamp="1584695183713">
+      <screen x="0" y="27" width="1920" height="994" />
+    </state>
+    <state x="499" y="117" width="1372" height="843" key="new project wizard/0.27.1920.994@0.27.1920.994" timestamp="1584695183713" />
+  </component>
+</project>
